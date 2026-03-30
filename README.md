@@ -39,6 +39,9 @@ Inflation is a focused project in this monorepo that delivers a practical tool w
 - 💻 [CLI](https://github.com/hieudoanm/inflation/releases)
 - 📱 [Mobile](https://github.com/hieudoanm/inflation/releases)
 - 🖥️ [Desktop](https://github.com/hieudoanm/inflation/releases)
+  - 🍎 [MacOS](https://github.com/hieudoanm/inflation/releases/tag/macos-latest)
+  - 🐧 [Ubuntu](https://github.com/hieudoanm/inflation/releases/tag/ubuntu-latest)
+  - 🪟 [Windows](https://github.com/hieudoanm/inflation/releases/tag/windows-latest)
 
 ## 🛠️ 5. Development Stack
 
